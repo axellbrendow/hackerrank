@@ -7,9 +7,9 @@ Given an array of strings of digits, try to find the occurrence of a given patte
 pattern arrays, each string represents a row in the grid. For example, consider the following grid:
 
 1234567890  
-0987654321  0
-1111111111  1 2
-1111111111  1 2
+0987654321  
+1111111111  
+1111111111  
 2222222222  
 
 The pattern array is:
